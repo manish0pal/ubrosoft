@@ -531,11 +531,11 @@ header.sticky{
 	}
 	.navlist{
 		position: absolute;
-		top: -600px;
+		top: -770px;
 		left: 0;
 		right: 0;
 		flex-direction: column;
-		/* background: var(--main-color); */
+		background: var(--main-color);
 		text-align: right;
 		transition: all .40s;
 	}
