@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .a {
+        fill: #757575;
+      }
+
+      .b {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>and then</title>
+  <path class="a" d="M6.4425,12.4425,9.8775,9,6.4425,5.5575,7.5,4.5,12,9,7.5,13.5Z"/>
+  <path class="b" d="M0,0H18V18H0Z"/>
+</svg>
