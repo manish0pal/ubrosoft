@@ -124,7 +124,7 @@ section {
 	min-height: 100vh;
 	height: 100%;
 	width: 100%;
-	/* background: url(../img/background.jpg); */
+	overflow: hidden;
 	background-size: cover;
 	background-position: center;
 	position: relative;
@@ -400,10 +400,10 @@ header.sticky {
 
 .service-content {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(400px, auto));
-	grid-gap: 2rem;
-	align-items: center;
-	margin-top: 5rem;
+    grid-template-columns: repeat(auto-fit, minmax(360px, auto));
+    grid-gap: 1rem;
+    align-items: center;
+    margin-top: 3rem;
 }
 
 .row {
